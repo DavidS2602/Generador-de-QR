@@ -18,7 +18,7 @@ function App() {
       />
       <div className="absolute flex flex-col items-center mt-4 rounded-lg border border-gray-200 w-3/4 h-1/2 backdrop-blur-lg lg:w-1/4 lg:h-1/2">
         <h1 className="font-bold text-3xl text-sky-200 font-sans py-4">
-          QR Generator
+          Generador de QR
         </h1>
           <input type="text" value={url} onChange={handleChange} placeholder="Introduce el link" className="p-2 rounded bg-transparent text-gray-200 border-2 mb-2 focus:border-gray-300"/>
         <footer className="p-1.5 mt-5 flex items-center justify-center">
