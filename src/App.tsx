@@ -13,7 +13,7 @@ function App() {
     <div className="flex flex-col items-center justify-center font-sans">
       <img
         className="relative w-screen h-screen object-cover"
-        src="/public/wallpaperflare.com_wallpaper.jpg"
+        src="/wallpaperflare.com_wallpaper.jpg"
         alt=""
       />
       <div className="absolute flex flex-col items-center mt-4 rounded-lg border border-gray-200 w-3/4 h-1/2 backdrop-blur-lg lg:w-1/4 lg:h-1/2">
